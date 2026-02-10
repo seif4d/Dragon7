@@ -1,0 +1,6 @@
+echo dist/ > .gitignore
+echo node_modules/ >> .gitignore
+echo .cache/ >> .gitignore
+echo .tmp/ >> .gitignore
+echo npm-debug.log >> .gitignore
+echo .DS_Store >> .gitignore
